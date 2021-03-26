@@ -1,0 +1,24 @@
+ 
+ 
+  .center {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 30%;
+      }
+
+  table, th, td{
+       border-collapse: collapse;
+  }
+
+  .home {
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    background-color: dimgrey;
+    padding: 5px;
+    top: 30px;
+    right: 30px;
+  }
